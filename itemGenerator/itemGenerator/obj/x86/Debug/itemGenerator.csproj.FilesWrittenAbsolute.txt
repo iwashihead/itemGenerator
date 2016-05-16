@@ -1,0 +1,5 @@
+/Users/ice/itemGenerator/itemGenerator/itemGenerator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ice/itemGenerator/itemGenerator/itemGenerator/bin/Debug/itemGenerator.exe.mdb
+/Users/ice/itemGenerator/itemGenerator/itemGenerator/bin/Debug/itemGenerator.exe
+/Users/ice/itemGenerator/itemGenerator/itemGenerator/obj/x86/Debug/itemGenerator.exe
+/Users/ice/itemGenerator/itemGenerator/itemGenerator/obj/x86/Debug/itemGenerator.exe.mdb
