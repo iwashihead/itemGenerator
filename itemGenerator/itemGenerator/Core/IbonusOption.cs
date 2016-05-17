@@ -1,17 +1,14 @@
-﻿using System;
-
-namespace itemGenerator
+﻿namespace itemGenerator
 {
-	/// <summary>
-	/// ボーナスオプション
-	/// ディアブロやサマナーズウォー等のアイテムモデル.
-	/// </summary>
-	public interface IbonusOption
-	{
-		string		GetName();
+    /// <summary>
+    /// ボーナスオプション
+    /// ディアブロやサマナーズウォー等のアイテムモデル.
+    /// </summary>
+    public interface IbonusOption
+    {
+        string GetName();
 
-		int			GetOptionType();
-		int			GetValue();
-	}
+        int GetOptionType();
+        int GetValue();
+    }
 }
-

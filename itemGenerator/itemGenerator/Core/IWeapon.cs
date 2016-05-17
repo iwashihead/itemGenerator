@@ -1,11 +1,8 @@
-﻿using System;
-
-namespace itemGenerator
+﻿namespace itemGenerator
 {
-	public interface IWeapon
-	{
-		int			GetAttack();
-		int			GetHit();
-	}
+    public interface IWeapon
+    {
+        int GetAttack();
+        int GetHit();
+    }
 }
-

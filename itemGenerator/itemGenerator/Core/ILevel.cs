@@ -1,19 +1,15 @@
-﻿using System;
-
-namespace itemGenerator
+﻿namespace itemGenerator
 {
-	/// <summary>
-	/// レベルインターフェース
-	/// </summary>
-	public interface ILevel
-	{
-		void		LevelUp();
-		void		LevelDown();
-		void		AddExp(int addValue);
+    /// <summary>
+    /// レベルインターフェース
+    /// </summary>
+    public interface ILevel
+    {
+        void LevelUp();
+        void LevelDown();
+        void AddExp(int addValue);
 
-
-		int			GetLevel();
-		int			GetExp();
-	}
+        int GetLevel();
+        int GetExp();
+    }
 }
-

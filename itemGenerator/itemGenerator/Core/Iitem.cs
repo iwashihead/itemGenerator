@@ -1,16 +1,13 @@
-﻿using System;
-
-namespace itemGenerator
+﻿namespace itemGenerator
 {
-	/// <summary>
-	/// アイテムのインターフェース
-	/// </summary>
-	public interface Iitem
-	{
-		int			GetId();
-		string		GetName();
-		int			GetIconId();
-		int			GetPrice();
-	}
+    /// <summary>
+    /// アイテムのインターフェース
+    /// </summary>
+    public interface Iitem
+    {
+        int GetId();
+        string GetName();
+        int GetIconId();
+        int GetPrice();
+    }
 }
-

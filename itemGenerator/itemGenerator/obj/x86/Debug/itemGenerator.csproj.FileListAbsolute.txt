@@ -1,0 +1,5 @@
+C:\Users\B07399\Documents\cs projects\itemGenerator\itemGenerator\itemGenerator\obj\x86\Debug\itemGenerator.exe
+C:\Users\B07399\Documents\cs projects\itemGenerator\itemGenerator\itemGenerator\bin\Debug\itemGenerator.exe
+C:\Users\B07399\Documents\cs projects\itemGenerator\itemGenerator\itemGenerator\bin\Debug\itemGenerator.pdb
+C:\Users\B07399\Documents\cs projects\itemGenerator\itemGenerator\itemGenerator\obj\x86\Debug\itemGenerator.csprojResolveAssemblyReference.cache
+C:\Users\B07399\Documents\cs projects\itemGenerator\itemGenerator\itemGenerator\obj\x86\Debug\itemGenerator.pdb
